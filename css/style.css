@@ -57,6 +57,10 @@ body {
     color: gray;
 }
 
+.social.stackoverflow {
+    color: gray;
+}
+
 /* Responsiveness */
 @media (max-width: 480px), (max-height: 600px) {
     .container-center.responsive {
