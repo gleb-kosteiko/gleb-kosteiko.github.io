@@ -1,4 +1,4 @@
-#The home of Last Khajiit
+##Just home page of Last Khaj
 
 [http://last-khajiit.github.io/](http://last-khajiit.github.io/)
 
