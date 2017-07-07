@@ -1,4 +1,4 @@
-Just home page of Khajiit
+My contacts page
 
 [http://last-khajiit.github.io/](http://last-khajiit.github.io/)
 
