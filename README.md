@@ -6,4 +6,4 @@ My contacts page
 
 ---
 
-**Copyright © 2017 Khajiit <last.khajiit@gmail.com>**
+**[Copyright](https://github.com/last-khajiit/last-khajiit.github.io/blob/master/LICENSE) © 2017 Hleb <last.khajiit@gmail.com>**
