@@ -1,6 +1,4 @@
-My contacts page
-
-[http://last-khajiit.github.io/](http://last-khajiit.github.io/)
+My contacts page [last-khajiit.github.io](http://last-khajiit.github.io/)
 
 
 
