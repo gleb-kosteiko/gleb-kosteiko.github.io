@@ -61,11 +61,6 @@ body {
     color: gray;
 }
 
-.github-corner:hover .octo-arm{
-  animation:octocat-wave 560ms ease-in-out;
-}
-@keyframes octocat-wave{0%,100%{transform:rotate(0)}20%,60%{transform:rotate(-25deg)}40%,80%{transform:rotate(10deg)}}
-
 /* Responsiveness */
 @media (max-width: 480px), (max-height: 600px) {
     .container-center.responsive {
@@ -77,12 +72,9 @@ body {
     .social {
         margin: 3px;
     }
-
     .social i:before {
         font-size: 30px;
-    }
-    
-    .github-corner:hover .octo-arm{animation:none}.github-corner .octo-arm{animation:octocat-wave 560ms ease-in-out}
+    }    
 }
 
 @keyframes blink{
