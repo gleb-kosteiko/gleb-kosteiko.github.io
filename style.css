@@ -6,9 +6,9 @@ a:hover {
 }
 
 html {
-  position: relative;
   height: 100%;
 }
+
 body {
   background-color: #FFFFFF;
   color: black;
@@ -16,17 +16,12 @@ body {
 }
 
 .container-center {
-  margin: auto;
-  position: absolute;
-  top: 0; left: 0; bottom: 0; right: 0;
+  margin-top: 40px;
 }
 
-.container-center.responsive {
-  width: 80%; 
-  height: 50%;
-  min-width: 400px;
-  max-width: 600px;
-  padding: 40px;
+h1, h2 {
+  font: HackingTrashed-Regular;
+  font-family: HackFonts;
 }
 
 .social {
@@ -44,6 +39,11 @@ body {
 
 .social i:before {
     font-size: 50px;
+}
+
+@font-face {
+  font-family: 'HackFonts';
+  src: URL('HackingTrashed-Regular.ttf') format('truetype');
 }
 
 @keyframes blink{
