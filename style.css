@@ -42,8 +42,10 @@ h1, h2 {
 }
 
 @font-face {
-  font-family: 'HackFonts';
-  src: URL('HackingTrashed-Regular.ttf') format('truetype');
+  font-family: "HackFonts";
+  src: url("HackingTrashed-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
 }
 
 @keyframes blink{
